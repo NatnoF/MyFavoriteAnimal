@@ -1,0 +1,11 @@
+body {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.container{
+    width: 1000px;
+    padding: 15px;
+    margin: 0 auto;
+    float: left;
+}
